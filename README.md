@@ -1,27 +1,65 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Full Stack Software Engineer
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+# 👋 Hello, I'm Tanveer Ahmad!
 
-<p align="center">
-  <img src="https://github.com/tanveersys/tanveersys/blob/main/Logo.gif" />
-</p>
+I’m a highly skilled **Full Stack Software Architect and Developer** with over 12 years of experience in designing, developing, and managing secure, scalable, and robust applications using **Microsoft Technologies**. I specialize in **.NET Core**, **C#**, **Azure**, **Angular**, **SQL**, and **API integration**.
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;12%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45">
-  </a>
-</p>
+- 📫 How to reach me **tanveer.sys@gmail.com**
 
-## Core Skills
+---
 
-- 🔭 <b>Frontend</b> : Angular, AG Grid
-- 🌱 <b>Libraries</b> : Bootstrap, Material UI
-- 👨‍💻 <b>Backend</b> : ASP.NET / .NET CORE / Entity Framework / LINQ / Dapper / ASP.NET Core 8.0 / C# Web API's / C# Restful API's / DevOps CI/CD
-- 💬 <b>Database</b> : MSSQL / MySQL / Stored Procedure / View / Trigger
-- 📫 <b>Languages</b> : JavaScript, TypeScript, JQuery, HTML5, CSS
+## 💼 What I Can Do for You
 
+### **Backend Development Expertise**
+- ✅ **.NET Core**, **C#** (.NET 3.1 & .NET 8)
+- ✅ **ASP.NET MVC & Core API**, **Entity Framework Core**, **ADO.NET**, **Dapper**
+- ✅ RESTful API Development & API Integration
+- ✅ Performance Optimization & Logging (Serilog)
+- ✅ **Cloud Platforms**: **Microsoft Azure** (App Services, Redis Cache, Service Bus, Storage Accounts, App Insights)
+- ✅ **DevOps**: CI/CD with **Azure DevOps**
+
+### API & Authentication:
+- ✅ API development using **ASP.NET Core Web API**
+- ✅ **JWT Token-based Authentication & Authorization**
+- ✅ **Single Sign-On (SSO)** with **Okta**
+- ✅ **File Processing**: Parsing and extracting data from Excel/CSV files, applying validations, and saving to databases
+
+### **Frontend Development Strengths**
+- ✅ Angular (Universal Rendering, RxJS, NgRX, Angular Material)
+- ✅ TypeScript, JavaScript, jQuery
+- ✅ Responsive Web Design (CSS3, Bootstrap)
+
+---
+
+### **Database Expertise**
+- ✅ MSSQL (Stored Procedures, Triggers, Views, Query Optimization)
+- ✅ MySQL & Elasticsearch
+
+---
+
+## 💡 Key Skills
+- Clean Code Architecture & SOLID Principles
+- Legacy Application Refactoring
+- Third-Party API Integration (WCF/RESTful APIs)
+- Background & Batch Data Processing
+- End-to-End Development & Maintenance
+
+---
+
+## 🌟 Why Choose Me?
+- 🏆 Proven track record in delivering high-quality software solutions
+- 💡 Passionate about crafting scalable, reliable, and secure applications
+- 🎯 Client-focused, detail-oriented, and committed to excellence
+- 🌍 Flexible working hours in **US, Canada, UK, Australia time zones**
+
+---
+
+## 📈 Let’s Build Something Amazing!
+
+I’m ready to help you with your next project. Whether you’re looking to upgrade your ASP.NET application, build a new API, or optimize your Angular frontend, I have the experience to deliver results that exceed your expectations.
+
+### 📌 Connect with Me:
+- **Upwork**: https://www.linkedin.com/in/tanveer-ahmad-dxb/
+- **LinkedIn**: https://www.upwork.com/freelancers/tanveerahmad204
+  
 ## Languages & Tools
 
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
